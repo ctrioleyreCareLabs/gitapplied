@@ -5,7 +5,7 @@
 # SPDX-License-Identifier:	GPL-2.0+
 #
 
-Christophe
+ChristopheTRIOLEYRE
 
 VERSION = 2014
 PATCHLEVEL = 04
